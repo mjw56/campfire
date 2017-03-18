@@ -1,4 +1,4 @@
-# rubbing-sticks
+# campfire
 
 a tiny repo to get hacking fast with infernoJS
 
@@ -7,9 +7,9 @@ a tiny repo to get hacking fast with infernoJS
 ## let's go!
 
 ```sh
-git clone git@github.com:mjw56/rubbing-sticks.git
+git clone git@github.com:mjw56/campfire.git
 
-cd rubbing-sticks/
+cd campfire/
 npm install
 npm run build && npm run start
 ```
